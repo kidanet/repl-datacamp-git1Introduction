@@ -1,0 +1,50 @@
+age,gender,family_history,treatment,work_interfere,benefits,mental_health_interview,mental_vs_physical
+31,M,No,No,Never,Don't know,No,Don't know
+40,M,Yes,Yes,Often,Don't know,No,Don't know
+24,F,Yes,Yes,Rarely,No,No,Yes
+36,M,Yes,Yes,Often,No,No,Yes
+28,M,No,No,Never,Don't know,Maybe,Yes
+43,F,Yes,Yes,Rarely,Yes,No,Don't know
+40,F,No,No,Never,Don't know,Maybe,Don't know
+32,F,No,Yes,Sometimes,Yes,No,Yes
+35,F,Yes,Yes,Rarely,Yes,Maybe,Yes
+46,F,No,Yes,Often,Yes,No,No
+30,M,No,No,Never,No,No,Yes
+41,M,No,Yes,Sometimes,Yes,Maybe,Yes
+34,M,Yes,Yes,Rarely,No,No,Yes
+40,M,Yes,Yes,Sometimes,Yes,No,Don't know
+34,M,No,Yes,Sometimes,No,No,Yes
+34,M,No,No,Never,Don't know,No,Don't know
+28,M,No,No,Never,Don't know,Maybe,Yes
+29,F,Yes,Yes,Rarely,Yes,Maybe,Don't know
+34,M,Yes,No,Never,Yes,No,Don't know
+43,M,No,No,Never,Don't know,No,Yes
+42,F,Yes,Yes,Sometimes,Yes,No,No
+27,M,No,No,Sometimes,Yes,No,Don't know
+25,M,Yes,Yes,Often,No,No,No
+33,M,Yes,Yes,Sometimes,Don't know,No,Yes
+33,M,Yes,Yes,Sometimes,No,No,Don't know
+23,M,No,Yes,Sometimes,Yes,No,Don't know
+31,M,Yes,No,Sometimes,No,No,Yes
+19,M,No,No,Never,Don't know,No,No
+34,M,Yes,Yes,Sometimes,No,No,No
+32,M,No,No,Never,Yes,No,Don't know
+24,F,Yes,Yes,Often,No,No,Don't know
+30,M,No,No,Often,No,Maybe,Don't know
+31,M,No,No,Never,Don't know,No,Don't know
+29,M,Yes,Yes,Never,Don't know,No,No
+32,M,No,No,Rarely,No,Yes,No
+32,M,Yes,Yes,Often,No,No,No
+38,M,Yes,Yes,Sometimes,Don't know,No,Don't know
+29,M,Yes,No,Often,Yes,No,Don't know
+27,M,No,Yes,Never,Yes,No,No
+38,M,Yes,Yes,Sometimes,Don't know,No,Don't know
+31,M,Yes,Yes,Never,Don't know,No,Don't know
+30,M,Yes,Yes,Often,No,No,Yes
+45,M,No,No,Never,Yes,No,Don't know
+18,M,No,Yes,Sometimes,Don't know,No,Don't know
+19,M,No,Yes,Sometimes,Don't know,No,Don't know
+28,M,No,Yes,Rarely,Yes,No,Yes
+29,F,No,Yes,Rarely,Don't know,No,Don't know
+23,M,Yes,No,Sometimes,No,No,No
+25,M,Yes,Yes,Sometimes,Yes,No,Don't know
